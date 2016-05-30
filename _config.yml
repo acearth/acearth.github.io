@@ -6,17 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: I am Chuan !
-name: DONGChuan
-email: dongchuan55@gmail.com
-location: Nice, France
-company: Gfi Informatique
-company_url: http://www.gfi.fr/en/
-github_url: https://github.com/DONGChuan
-description: This is personnel website of DONG Chuan
+title: Arthur at Here
+name: Arthur Ace
+email: arthur4it@gmail.com
+location: Shenzhen, China
+company: USTC
+company_url: http://www.ustc.edu
+github_url: https://github.com/accorde
+description: This is personnel website of Arthur Ace
 favicon: favicon.png # Image must be in assets/images
 
-url: http://dongchuan.github.io # the base hostname & protocol for your site
+url: http://accorde.github.io # the base hostname & protocol for your site
 
 ## Gem
 gems:
@@ -78,11 +78,10 @@ side_bar_repo_limit: 5 # Number of repos to show
 analytics :
   provider : google
   google :
-      tracking_id : 'UA-72165600-1'
+      tracking_id : 'UA-72165600-1#TODOCHANGE‘
 
 
 # For about.html. Fell free to create your own!
-skill_software_keywords: [Java, C, C++, Qt, Python, MySQL, Oracle, SQLite, PL/SQL, Design Patterns]
-skill_j2ee_keywords: [Spring, Struct, Hibernet, MyBatis, JSP]
-skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax, AngularJS, NodeJS, ExpressJS, MongoDB, Redis, PHP, Symfony, Boostrap]
-skill_mobile_app_keywords: [Android, Sketch UI Desgin]
+skill_software_keywords: [Java, Ruby, C, C++, Python, MySQL,SQLite, Design Patterns]
+skill_j2ee_keywords: [Spring, Hibernet, MyBatis, JSP]
+skill_web_keywords: [Ruby on Rails, HTML, CSS, JS, JQuery, Ajax, AngularJS, NodeJS, ExpressJS, MongoDB, Redis, PHP, Symfony, Boostrap]
