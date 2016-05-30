@@ -12,11 +12,11 @@ email: arthur4it@gmail.com
 location: Shenzhen, China
 company: USTC
 company_url: http://www.ustc.edu
-github_url: https://github.com/accorde
+github_url: https://github.com/acearth
 description: This is personnel website of Arthur Ace!!!
 favicon: favicon.png # Image must be in assets/images
 
-url: http://accorde.github.io # the base hostname & protocol for your site
+url: http://acearth.github.io # the base hostname & protocol for your site
 
 ## Gem
 gems:
